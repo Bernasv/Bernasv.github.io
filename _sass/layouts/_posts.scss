@@ -61,12 +61,17 @@ header {
   border-radius: 1em;
   padding-right: 0.5em;
   display: inline-flex;
-  
+
   a {
     display: flex;
     align-items: center;
+
     img {
       height: auto;
+    }
+
+    &:hover {
+      text-decoration: none;
     }
   }
 
@@ -146,7 +151,7 @@ header {
 
   a {
     :visited {
-      filter: saturate(0.7);  
+      filter: saturate(0.7);
     }
   }
 }
