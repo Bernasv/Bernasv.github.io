@@ -4,9 +4,9 @@ url: "https://bernasv.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Bernasv                                    # site's title
-description: "Bernasv Blog"                       # used by search engines
-avatar: assets/img/logo.png                       # Empty for no avatar in navbar
-favicon: assets/favicon.ico                       # Icon displayed in the tab
+description: "Bernasv Blog"      # used by search engines
+avatar: assets/img/logo.png                         # Empty for no avatar in navbar
+favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Bernasv Blog  # Change Blog header text
@@ -15,7 +15,6 @@ header_feature_image_responsive: true
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> based on <a href="https://github.com/sylhare/Type-on-Strap" target="_blank">Type on Strap</a>
-
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
@@ -32,7 +31,7 @@ color_theme: auto                                       # auto, dark or light
 
 # Comments
 comments:
-disqus_shortname: bernasv                               # Your discus shortname for comments
+  disqus_shortname: bernasv                                   # Your discus shortname for comments
   cusdis_app_id:                                        # Your cusdis data-app-id
   utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
     repo:                                               # your public comments repository (e.g. owner/repo)
