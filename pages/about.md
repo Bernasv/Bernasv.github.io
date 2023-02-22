@@ -7,5 +7,5 @@ tags: [About]
 order: 2
 ---
 
-I'm a Informatic Engineering graduated. My main interests are Cyber Security, Artificial Intelligence and Physics. I love to play CTFs in my free time. I play for the [xSTF](https://ctftime.org/team/15341){:target="_blank"} team of University of Porto since 2017. I focus on Reserve engineering and Web challenges that is my main area of interest.
+I’m a Informatic Engineering graduated, working currently as Pentester in [Integrity](https://www.integrity.pt/){:target="_blank"}. I was a software developer for 4 years, mainly making Mobile, Web and Desktop apps. CTF player for [xSTF](https://ctftime.org/team/15341){:target="_blank"} team of University of Porto since 2017. I focus on Reserve engineering and Web challenges.
 
